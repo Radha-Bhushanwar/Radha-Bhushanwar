@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SQL | Data Analytics | Risk & Fraud.<br> ✍🏻I’m looking to collaborate on Data analytics, SQL projects, dashboards, and real-world business problem solving<br>🌱 I’m currently learning Advanced SQL, data modeling, and visualization using Tableau<br>
+🔭 I’m currently working on SQL | Data Analytics | Risk & Fraud.<br> ✍🏻 I’m looking to collaborate on Data analytics, SQL projects, dashboards, and real-world business problem solving<br>🌱 I’m currently learning Advanced SQL, data modeling, and visualization using Tableau<br>
 
 
 ## 🌐 Socials:
